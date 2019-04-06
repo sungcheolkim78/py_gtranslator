@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+py_gtranslator.egg-info/PKG-INFO
+py_gtranslator.egg-info/SOURCES.txt
+py_gtranslator.egg-info/dependency_links.txt
+py_gtranslator.egg-info/entry_points.txt
+py_gtranslator.egg-info/requires.txt
+py_gtranslator.egg-info/top_level.txt
